@@ -1,0 +1,29 @@
+﻿.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1, h2, h3, p {
+    margin: 0;
+}
+
+.song-card {
+    margin-bottom: 20px;
+}
+
+    .song-card img {
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+    }
+
+    .song-card h3 {
+        font-size: 18px;
+        margin-top: 10px;
+    }
+
+    .song-card p {
+        font-size: 14px;
+        color: #777;
+    }
